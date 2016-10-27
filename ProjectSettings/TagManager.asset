@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shredder
+  - reticule
+  - gatling
+  - bomb
+  - on_land_reticule
+  - bomb_projectile
+  - p1score
+  - p1life
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 34499493
+    locked: 0
+  - name: Ground Objects
+    uniqueID: 1478237263
+    locked: 0
+  - name: Craters
+    uniqueID: 1137014847
+    locked: 0
+  - name: Flying Objects
+    uniqueID: 1818552443
+    locked: 0
+  - name: UI & overlays
+    uniqueID: 166851915
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

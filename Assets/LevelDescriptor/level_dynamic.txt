@@ -1,0 +1,14 @@
+# Area MUST start from 1
+area_1
+1: toroid
+12: toroid, torkan
+20: jara
+27: kapi
+#5: zoshi, kapi
+#10: zakato, jara
+area_2
+1: kapi, torkan, zoshi, jara
+#2: torkan, zoshi
+#5: clear
+area_3
+1: kapi, torkan, zoshi, jara

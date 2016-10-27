@@ -1,0 +1,19 @@
+# Area MUST start from 1
+area_1
+#3: bacura
+15: zoshi
+24: clear
+32: zakato
+36: clear
+area_2
+1: zoshi
+10: zoshi, brag_zakato
+area_3
+1: bacura
+7: clear
+#1: boza_logram
+#3: sol
+#5: derota, barra
+#6: bacura
+#8: brag_zakato
+#12: garu_zakato

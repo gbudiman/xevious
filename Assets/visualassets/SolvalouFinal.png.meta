@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: be252857227734d798f5a9893e3cd63a
+timeCreated: 1476862395
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: reticule_default
+    21300002: SolvalouFinal_1
+    21300004: SolvalouFinal_2
+    21300006: SolvalouFinal_3
+    21300008: SolvalouFinal_4
+    21300010: SolvalouFinal_5
+    21300012: SolvalouFinal_6
+    21300014: SolvalouFinal_7
+    21300016: SolvalouFinal_8
+    21300018: SolvalouFinal_9
+    21300020: SolvalouFinal_10
+    21300022: SolvalouFinal_11
+    21300024: SolvalouFinal_12
+    21300026: reticule_highlit
+    21300028: SolvalouFinal_14
+    21300030: SolvalouFinal_15
+    21300032: SolvalouFinal_16
+    21300034: SolvalouFinal_17
+    21300036: SolvalouFinal_18
+    21300038: SolvalouFinal_19
+    21300040: SolvalouFinal_20
+    21300042: SolvalouFinal_21
+    21300044: SolvalouFinal_22
+    21300046: SolvalouFinal_23
+    21300048: SolvalouFinal_24
+    21300050: SolvalouFinal_25
+    21300052: SolvalouFinal_26
+    21300054: SolvalouFinal_27
+    21300056: SolvalouFinal_28
+    21300058: SolvalouFinal_29
+    21300060: on_ground_reticule
+    21300062: SolvalouFinal_31
+    21300064: SolvalouFinal_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reticule_default
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 155
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 155
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 155
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 123
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 117
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 119
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: reticule_highlit
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 151
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 151
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 162
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 157
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: on_ground_reticule
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 118
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SolvalouFinal_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

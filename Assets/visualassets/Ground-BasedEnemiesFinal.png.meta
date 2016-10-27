@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: b2815eb8dd6be441d8ac790a3c91b22e
+timeCreated: 1477168509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ground-BasedEnemiesFinal_0
+    21300002: Ground-BasedEnemiesFinal_1
+    21300004: Ground-BasedEnemiesFinal_2
+    21300006: Ground-BasedEnemiesFinal_3
+    21300008: Ground-BasedEnemiesFinal_4
+    21300010: Ground-BasedEnemiesFinal_5
+    21300012: Ground-BasedEnemiesFinal_6
+    21300014: Ground-BasedEnemiesFinal_7
+    21300016: Ground-BasedEnemiesFinal_8
+    21300018: Ground-BasedEnemiesFinal_9
+    21300020: Ground-BasedEnemiesFinal_10
+    21300022: Ground-BasedEnemiesFinal_11
+    21300024: Ground-BasedEnemiesFinal_12
+    21300026: Ground-BasedEnemiesFinal_13
+    21300028: Ground-BasedEnemiesFinal_14
+    21300030: Ground-BasedEnemiesFinal_15
+    21300032: Ground-BasedEnemiesFinal_16
+    21300034: Ground-BasedEnemiesFinal_17
+    21300036: Ground-BasedEnemiesFinal_18
+    21300038: Ground-BasedEnemiesFinal_19
+    21300040: Ground-BasedEnemiesFinal_20
+    21300042: Ground-BasedEnemiesFinal_21
+    21300044: Ground-BasedEnemiesFinal_22
+    21300046: Ground-BasedEnemiesFinal_23
+    21300048: Ground-BasedEnemiesFinal_24
+    21300050: Ground-BasedEnemiesFinal_25
+    21300052: Ground-BasedEnemiesFinal_26
+    21300054: Ground-BasedEnemiesFinal_27
+    21300056: Ground-BasedEnemiesFinal_28
+    21300058: Ground-BasedEnemiesFinal_29
+    21300060: Ground-BasedEnemiesFinal_30
+    21300062: Ground-BasedEnemiesFinal_31
+    21300064: Ground-BasedEnemiesFinal_32
+    21300066: Ground-BasedEnemiesFinal_33
+    21300068: Ground-BasedEnemiesFinal_34
+    21300070: Ground-BasedEnemiesFinal_35
+    21300072: Ground-BasedEnemiesFinal_36
+    21300074: Ground-BasedEnemiesFinal_37
+    21300076: Ground-BasedEnemiesFinal_38
+    21300078: Ground-BasedEnemiesFinal_39
+    21300080: Ground-BasedEnemiesFinal_40
+    21300082: Ground-BasedEnemiesFinal_41
+    21300084: Ground-BasedEnemiesFinal_42
+    21300086: Ground-BasedEnemiesFinal_43
+    21300088: Ground-BasedEnemiesFinal_44
+    21300090: Ground-BasedEnemiesFinal_45
+    21300092: Ground-BasedEnemiesFinal_46
+    21300094: Ground-BasedEnemiesFinal_47
+    21300096: Ground-BasedEnemiesFinal_48
+    21300098: Ground-BasedEnemiesFinal_49
+    21300100: Ground-BasedEnemiesFinal_50
+    21300102: Ground-BasedEnemiesFinal_51
+    21300104: Ground-BasedEnemiesFinal_52
+    21300106: Ground-BasedEnemiesFinal_53
+    21300108: Ground-BasedEnemiesFinal_54
+    21300110: Ground-BasedEnemiesFinal_55
+    21300112: Ground-BasedEnemiesFinal_56
+    21300114: Ground-BasedEnemiesFinal_57
+    21300116: Ground-BasedEnemiesFinal_58
+    21300118: Ground-BasedEnemiesFinal_59
+    21300120: Ground-BasedEnemiesFinal_60
+    21300122: Ground-BasedEnemiesFinal_61
+    21300124: Ground-BasedEnemiesFinal_62
+    21300126: Ground-BasedEnemiesFinal_63
+    21300128: Ground-BasedEnemiesFinal_64
+    21300130: Ground-BasedEnemiesFinal_65
+    21300132: Ground-BasedEnemiesFinal_66
+    21300134: Ground-BasedEnemiesFinal_67
+    21300136: Ground-BasedEnemiesFinal_68
+    21300138: Ground-BasedEnemiesFinal_69
+    21300140: Ground-BasedEnemiesFinal_70
+    21300142: Ground-BasedEnemiesFinal_71
+    21300144: Ground-BasedEnemiesFinal_72
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 390
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 379
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 378
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 378
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 380
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 380
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 365
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 349
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 349
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 351
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 313
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 313
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 313
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 313
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 324
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 324
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 324
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 324
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 322
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 323
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 317
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 301
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 306
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 306
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 306
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 287
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 288
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 289
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 259
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 221
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 153
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 153
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_56
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 168
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 166
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 114
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 75
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 79
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 79
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_70
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 77
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground-BasedEnemiesFinal_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 228
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

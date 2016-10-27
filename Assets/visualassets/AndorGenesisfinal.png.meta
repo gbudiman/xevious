@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: f3a4ff10fb45b478bbd67151ffc16cda
+timeCreated: 1476897400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alive_0
+    21300002: alive_1
+    21300004: alive_3
+    21300006: alive_4
+    21300008: AndorGenesisfinal_4
+    21300010: AndorGenesisfinal_5
+    21300012: AndorGenesisfinal_6
+    21300014: AndorGenesisfinal_7
+    21300016: AndorGenesisfinal_8
+    21300018: AndorGenesisfinal_9
+    21300020: AndorGenesisfinal_10
+    21300022: AndorGenesisfinal_11
+    21300024: AndorGenesisfinal_12
+    21300026: AndorGenesisfinal_13
+    21300028: AndorGenesisfinal_14
+    21300030: dying_0
+    21300032: dying_1
+    21300034: dying_2
+    21300036: dying_3
+    21300038: dying_4
+    21300040: AndorGenesisfinal_20
+    21300042: AndorGenesisfinal_21
+    21300044: AndorGenesisfinal_22
+    21300046: AndorGenesisfinal_23
+    21300048: AndorGenesisfinal_24
+    21300050: AndorGenesisfinal_25
+    21300052: AndorGenesisfinal_26
+    21300054: AndorGenesisfinal_27
+    21300056: AndorGenesisfinal_28
+    21300058: AndorGenesisfinal_29
+    21300060: tl_dead
+    21300062: bl_dead
+    21300064: tr_dead
+    21300066: br_dead
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alive_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 215
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alive_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 215
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alive_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 215
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alive_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 215
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 215
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 257
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 257
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 142
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 188
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 191
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 191
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 105
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 105
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 105
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 105
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dying_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 105
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 177
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 174
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 177
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 41
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AndorGenesisfinal_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 228
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tl_dead
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 165
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5220892, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bl_dead
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tr_dead
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 165
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: br_dead
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

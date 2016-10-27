@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: 66f865beb1ac0451b8418f6d1187c282
+timeCreated: 1476235960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Air-BasedEnemiesFinal_0
+    21300002: Air-BasedEnemiesFinal_1
+    21300004: Air-BasedEnemiesFinal_2
+    21300006: Air-BasedEnemiesFinal_3
+    21300008: Air-BasedEnemiesFinal_4
+    21300010: Air-BasedEnemiesFinal_5
+    21300012: Air-BasedEnemiesFinal_6
+    21300014: Air-BasedEnemiesFinal_9
+    21300016: Air-BasedEnemiesFinal_10
+    21300018: Air-BasedEnemiesFinal_11
+    21300020: Air-BasedEnemiesFinal_12
+    21300022: Air-BasedEnemiesFinal_14
+    21300024: Air-BasedEnemiesFinal_15
+    21300026: Air-BasedEnemiesFinal_16
+    21300028: Air-BasedEnemiesFinal_17
+    21300030: Air-BasedEnemiesFinal_18
+    21300032: Air-BasedEnemiesFinal_19
+    21300034: Air-BasedEnemiesFinal_26
+    21300036: Air-BasedEnemiesFinal_27
+    21300038: Air-BasedEnemiesFinal_28
+    21300040: Air-BasedEnemiesFinal_29
+    21300042: Air-BasedEnemiesFinal_30
+    21300044: Air-BasedEnemiesFinal_31
+    21300046: Air-BasedEnemiesFinal_32
+    21300048: Air-BasedEnemiesFinal_33
+    21300050: Air-BasedEnemiesFinal_34
+    21300052: Air-BasedEnemiesFinal_36
+    21300054: Air-BasedEnemiesFinal_37
+    21300056: Air-BasedEnemiesFinal_38
+    21300058: Air-BasedEnemiesFinal_39
+    21300060: Air-BasedEnemiesFinal_40
+    21300062: Air-BasedEnemiesFinal_41
+    21300064: Air-BasedEnemiesFinal_44
+    21300066: Air-BasedEnemiesFinal_45
+    21300068: Air-BasedEnemiesFinal_46
+    21300070: Air-BasedEnemiesFinal_47
+    21300072: Air-BasedEnemiesFinal_48
+    21300074: Air-BasedEnemiesFinal_49
+    21300076: Air-BasedEnemiesFinal_50
+    21300078: Air-BasedEnemiesFinal_52
+    21300080: Air-BasedEnemiesFinal_53
+    21300082: Air-BasedEnemiesFinal_54
+    21300084: Air-BasedEnemiesFinal_55
+    21300086: Air-BasedEnemiesFinal_56
+    21300088: Air-BasedEnemiesFinal_57
+    21300090: Air-BasedEnemiesFinal_58
+    21300092: Air-BasedEnemiesFinal_61
+    21300094: Air-BasedEnemiesFinal_63
+    21300096: Air-BasedEnemiesFinal_66
+    21300098: Air-BasedEnemiesFinal_67
+    21300100: Air-BasedEnemiesFinal_68
+    21300102: Air-BasedEnemiesFinal_69
+    21300104: Air-BasedEnemiesFinal_70
+    21300106: Air-BasedEnemiesFinal_71
+    21300108: Air-BasedEnemiesFinal_72
+    21300110: Air-BasedEnemiesFinal_73
+    21300112: Air-BasedEnemiesFinal_74
+    21300114: Air-BasedEnemiesFinal_75
+    21300116: Air-BasedEnemiesFinal_76
+    21300118: Air-BasedEnemiesFinal_77
+    21300120: Air-BasedEnemiesFinal_79
+    21300122: Air-BasedEnemiesFinal_80
+    21300124: Air-BasedEnemiesFinal_81
+    21300126: Air-BasedEnemiesFinal_82
+    21300128: Air-BasedEnemiesFinal_83
+    21300130: Air-BasedEnemiesFinal_84
+    21300132: Air-BasedEnemiesFinal_85
+    21300134: Air-BasedEnemiesFinal_86
+    21300136: Air-BasedEnemiesFinal_88
+    21300138: Air-BasedEnemiesFinal_89
+    21300140: Air-BasedEnemiesFinal_90
+    21300142: Air-BasedEnemiesFinal_91
+    21300144: Air-BasedEnemiesFinal_92
+    21300146: Air-BasedEnemiesFinal_93
+    21300148: Air-BasedEnemiesFinal_94
+    21300150: Air-BasedEnemiesFinal_95
+    21300152: Air-BasedEnemiesFinal_96
+    21300154: Air-BasedEnemiesFinal_97
+    21300156: Air-BasedEnemiesFinal_98
+    21300158: Air-BasedEnemiesFinal_99
+    21300160: Air-BasedEnemiesFinal_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 356
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 356
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 356
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 356
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 356
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 356
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 326
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 328
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 328
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 327
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 298
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 298
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 298
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 244
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 247
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 247
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 244
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 214
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 214
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 214
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 214
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 214
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 150
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 150
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 150
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 150
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_76
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 150
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 150
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 122
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_82
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 120
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_83
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 120
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 120
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_92
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_95
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Air-BasedEnemiesFinal_100
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
